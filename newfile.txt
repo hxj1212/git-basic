@@ -1,3 +1,6 @@
 git add 是将自己的修改提交到缓存中
 git commit 是将缓存修改过的文件提交到本地仓库中
 git push 是将本地仓库的修改提交到远程仓库上
+
+
+add a sentence on remote repo
